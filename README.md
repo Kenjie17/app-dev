@@ -5,9 +5,12 @@ My first repository
 2. La la land
 3. Little Miss Sunshine
 4. Whiplash
+
 | Movies      | Description |
 | ----------- | ----------- |
 | About time  | About a young man that can go back in time realizes that every moment in life came with a second chances. |
+![About Time](https://a.ltrbxd.com/resized/sm/upload/uo/th/yf/uz/zSuh8dGwqpsWR7ccvYbfxbSZ37o-0-2000-0-3000-crop.jpg?v=7276b6e978)
+
 | La la land  | Mia, an aspiring actress and Sebastian, a Jazz musician struggles with their relationship when faced with their dream that they worked hard for. |
 | Pulp Fiction| A burger-loving hit man, his philosophical partner, a drug-addled gangster’s moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time. Tarantino's best) |
 | Whiplash    | a talented young drummer begins to pursue perfection at any cost, even his humanity. (ABSOLUTE CINEMA)|
